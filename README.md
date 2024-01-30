@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
 
+Estudiante de Ingenieria en Sistemas en la Universidad Cristobal Colon, bastante interesado en aprender sobre mi carrera, apasionado por los idiomas y la música
+
+Una cosa es stalkear Instagram pero stalkear GitHub es otro nivel
 <!--
 **FranciscoTiburcio/FranciscoTiburcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
